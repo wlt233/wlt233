@@ -3,7 +3,8 @@
 
 > *also on [wlt233.com](https://wlt233.com) (under construction)* ~~干啥啥不行，整活第一名~~
 
-Current status: a high school senior, trying to touching fish (slacking off) in his buzy school life 
+### current status: 
+A high school senior, trying to touching fish (slacking off) in his buzy school life 
 *~~干啥啥不行，摸鱼第一名~~*
 
 ### preferences
