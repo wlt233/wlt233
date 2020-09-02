@@ -37,7 +37,7 @@ A high school senior, trying to touching fish (slacking off) in his buzy school 
 
 <p align="left">
 <img alt="wlt233's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=wlt233&show_icons=true&include_all_commits=true">
-<img alt="wlt233's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlt233&layout=compact">
+<img alt="wlt233's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlt233">
 </p>
 
 <p>
