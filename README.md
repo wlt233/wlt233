@@ -3,14 +3,14 @@
 
 > *also on [wlt233.com](https://wlt233.com) (under construction)* ~~干啥啥不行，整活第一名~~
 
-### current status: 
-A high school senior, trying to touch fish (slack off) in his buzy school life 
+### current status
+A high school senior, trying to touch fish (slack off) in his busy school life 
 *~~干啥啥不行，摸鱼第一名~~*
 
 ### preferences
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/CentOS-7-3cbf1d?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
-[![](https://img.shields.io/badge/IOS-9-f1c204?style=flat-square&logo=windows&logoColor=white)](https://www.apple.com/ios/ios-13/)
+[![](https://img.shields.io/badge/iOS-9-f1c204?style=flat-square&logo=iOS&logoColor=white)](https://www.apple.com/ios/ios-13/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### skill(?)
